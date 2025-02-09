@@ -55,4 +55,9 @@ Here are some VS Code Extensions that could help you have a better development e
 For change request, please clone and submit pull-request. Or e-mail at mark@theblokc.com
 
 ## transaction Hash
+
+01-CONTRACT NG phcancer
 0x309F30E157A67df40dc78538A0C13B62C4B41e2a
+
+02-HARDHAT
+0xaEbd8377450C465929361482e5DDbbce69Eec66C
