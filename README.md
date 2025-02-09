@@ -64,3 +64,9 @@ For change request, please clone and submit pull-request. Or e-mail at mark@theb
 
 03-erc20-Contract-Address-ng-Token-deployment
 0x61417aB00DbAd10C7F63dfD8E88498b6E27b324d
+
+04-erc721-contract-address-ng-nadeploy
+0xcCe366850e8FB035191A42A60c2E3EcE3A6217cA
+
+address ng nft
+0xcce366850e8fb035191a42a60c2e3ece3a6217ca
