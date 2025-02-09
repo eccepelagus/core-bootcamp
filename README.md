@@ -61,3 +61,6 @@ For change request, please clone and submit pull-request. Or e-mail at mark@theb
 
 02-HARDHAT
 0xaEbd8377450C465929361482e5DDbbce69Eec66C
+
+03-erc20-Contract-Address-ng-Token-deployment
+0x61417aB00DbAd10C7F63dfD8E88498b6E27b324d
